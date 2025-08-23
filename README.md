@@ -1,4 +1,5 @@
-# CS-305-Final-Journal
+# CS-305 Final Journal
+## Elizabeth Marticello
 
 •	Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?
 
